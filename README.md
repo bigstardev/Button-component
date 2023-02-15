@@ -27,10 +27,27 @@ You will also see any lint errors in the console.
 <span>Size</span>
 
 <ul>
-    <li>medium</li>
+    <li>normal</li>
     <li>large</li>
 </ul>
 
-<span>clickHandler</span>
+<span>label</span> <br/>
+<span>clickHandler</span> <br/>
+<span>submitting</span> <br/>
+<span>disabled</span> <br/>
+<span>buttonType</span> <br/>
+<span>disabled</span> <br/>
+
+<span>width</span>
+
+<ul>
+    <li>custom number</li>
+    <li>full</li>
+</ul>
+
 <span>submitting</span>
-<span>disabled</span>
+
+<ul>
+    <li>true</li>
+    <li>false</li>
+</ul>

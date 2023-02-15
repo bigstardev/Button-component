@@ -64,6 +64,7 @@ function App() {
           submitting={submitting}
         />
         <Button
+          buttonType="submit"
           disabled={true}
           size="large"
           clickHandler={submitForm}
