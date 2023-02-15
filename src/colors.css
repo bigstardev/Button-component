@@ -1,0 +1,23 @@
+:root {
+  --white: #ffffff;
+  --black: #000000;
+
+  --primary: #000000;
+  --primary-25: #f9fbfc;
+  --primary-35: #f3f5f6;
+  --primary-50: #eceff1;
+  --primary-100: #cfd8dc;
+  --primary-150: #cdd6da;
+  --primary-200: #b0bec5;
+  --primary-250: #a1b2ba;
+  --primary-300: #90a4ae;
+  --primary-350: #809782;
+  --primary-400: #78909c;
+  --primary-500: #607d8b;
+  --primary-600: #546e7a;
+  --primary-700: #455a64;
+  --primary-900: #263238;
+
+  --green-500: #009500;
+  --green-700: #006800;
+}
